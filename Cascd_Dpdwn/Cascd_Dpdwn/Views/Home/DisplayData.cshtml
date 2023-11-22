@@ -1,4 +1,4 @@
-﻿@model List<Cascd_Dpdwn.Models.tbl_Territory>
+﻿@model Cascd_Dpdwn.VMs.AllTbl
 
 @{
     ViewData["Title"] = "DisplayData";
@@ -10,14 +10,11 @@
     <div>
         <select id="teritory" class="form-select">
             <option>Select</option>
-            <option>Select</option>
-            <option>Select</option>
-            <option>Select</option>
             @{
-                foreach (var item in Model)
+                foreach (var item in Model.Territory)
                 {
-                    <option value="item.Ter_id">
-                        item.Tr_Name
+                    <option value="@item.Ter_id">
+                        @item.Tr_Name
                     </option>
                 }
             }

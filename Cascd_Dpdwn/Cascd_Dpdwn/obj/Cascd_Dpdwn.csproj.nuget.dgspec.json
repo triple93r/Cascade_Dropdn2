@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Practice\\Youtube\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj": {}
+    "F:\\RashmiR\\Practice\\Github\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj": {}
   },
   "projects": {
-    "E:\\Practice\\Youtube\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj": {
+    "F:\\RashmiR\\Practice\\Github\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practice\\Youtube\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj",
+        "projectUniqueName": "F:\\RashmiR\\Practice\\Github\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj",
         "projectName": "Cascd_Dpdwn",
-        "projectPath": "E:\\Practice\\Youtube\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj",
-        "packagesPath": "C:\\Users\\tripl\\.nuget\\packages\\",
-        "outputPath": "E:\\Practice\\Youtube\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\obj\\",
+        "projectPath": "F:\\RashmiR\\Practice\\Github\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\Cascd_Dpdwn.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "F:\\RashmiR\\Practice\\Github\\Cascade_Dropdn2\\Cascd_Dpdwn\\Cascd_Dpdwn\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tripl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

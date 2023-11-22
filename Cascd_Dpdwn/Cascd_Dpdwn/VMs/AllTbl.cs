@@ -5,13 +5,9 @@ namespace Cascd_Dpdwn.VMs
 {
     public class AllTbl
     {
-        private readonly ApplicationDbContext _context;
-        public AllTbl(ApplicationDbContext context)
-        {
-                _context = context;
-        }
+     
         public List<tbl_Territory> Territory { get; set; } = new List<tbl_Territory>();
-        public tbl_Country tbl_Country { get; set; } = new tbl_Country();
+        public List<tbl_Country> tbl_Country { get; set; } = new List<tbl_Country>();
 
     }
 }

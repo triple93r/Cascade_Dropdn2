@@ -32,7 +32,7 @@ namespace Cascd_Dpdwn.Controllers
             AllTbl allTbl = new AllTbl();
             allTbl.Territory = _context.tbl_Territory.ToList();
             
-            return View();
+            return View(allTbl);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

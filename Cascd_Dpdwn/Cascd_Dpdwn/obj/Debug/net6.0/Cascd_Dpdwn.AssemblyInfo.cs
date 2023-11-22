@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cascd_Dpdwn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46e15edd2be92ede9a26eb8d442b6a795b269d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cascd_Dpdwn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cascd_Dpdwn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
