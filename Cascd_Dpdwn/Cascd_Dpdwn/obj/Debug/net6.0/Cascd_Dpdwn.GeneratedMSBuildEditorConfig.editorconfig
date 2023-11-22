@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Practice\Youtube\Cascade_Dropdn2\Cascd_Dpdwn\Cascd_Dpdwn
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/DisplayData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5RGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

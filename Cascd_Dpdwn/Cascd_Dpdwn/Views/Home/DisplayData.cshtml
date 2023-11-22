@@ -1,7 +1,32 @@
-﻿
+﻿@model List<Cascd_Dpdwn.Models.tbl_Territory>
+
 @{
     ViewData["Title"] = "DisplayData";
 }
 
 <h1>DisplayData</h1>
 
+<div class="container">
+    <div>
+        <select id="teritory" class="form-select">
+            <option>Select</option>
+            <option>Select</option>
+            <option>Select</option>
+            <option>Select</option>
+            @{
+                foreach (var item in Model)
+                {
+                    <option value="item.Ter_id">
+                        item.Tr_Name
+                    </option>
+                }
+            }
+        </select>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+
+    </script>
+}
