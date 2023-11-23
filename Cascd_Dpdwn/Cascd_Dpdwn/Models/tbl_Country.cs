@@ -6,7 +6,7 @@ namespace Cascd_Dpdwn.Models
     {
         [Key]
         public int Cnt_id { get; set; }
-        public string Name { get; set; }    
+        public string Cn_Name { get; set; }    
         public int Ter_id { get; set; }
     }
 }

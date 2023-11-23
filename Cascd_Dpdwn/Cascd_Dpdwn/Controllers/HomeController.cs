@@ -30,7 +30,9 @@ namespace Cascd_Dpdwn.Controllers
         public IActionResult DisplayData()
         {
             AllTbl allTbl = new AllTbl();
-            allTbl.Territory = _context.tbl_Territory.ToList();
+            allTbl.tbl_Territory = _context.tbl_Territory.ToList();
+            allTbl.tbl_Country = _context.tbl_Country.ToList();
+            allTbl.tbl_Stt =  _context.tbl_Stt.ToList();
             
             return View(allTbl);
         }
