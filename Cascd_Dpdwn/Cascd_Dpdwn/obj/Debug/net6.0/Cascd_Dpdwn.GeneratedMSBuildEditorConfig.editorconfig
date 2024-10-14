@@ -9,47 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cascd_Dpdwn
 build_property.RootNamespace = Cascd_Dpdwn
-build_property.ProjectDir = F:\RashmiR\Practice\Github\Cascade_Dropdn2\Cascd_Dpdwn\Cascd_Dpdwn\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = E:\Practice\Youtube\Cascade_Dropdn2\Cascd_Dpdwn\Cascd_Dpdwn\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\RashmiR\Practice\Github\Cascade_Dropdn2\Cascd_Dpdwn\Cascd_Dpdwn
+build_property.MSBuildProjectDirectory = E:\Practice\Youtube\Cascade_Dropdn2\Cascd_Dpdwn\Cascd_Dpdwn
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Country/Index.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Country/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/DisplayData.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/DisplayData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5RGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/Index.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/Privacy.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Shared/Error.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/_ViewImports.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/_ViewStart.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/RashmiR/Practice/Github/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Shared/_Layout.cshtml]
+[E:/Practice/Youtube/Cascade_Dropdn2/Cascd_Dpdwn/Cascd_Dpdwn/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-13jbgoh0hm
